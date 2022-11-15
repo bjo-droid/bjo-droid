@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bjo-droid
 - 👀 I’m interested in Computer Hardware and Web development
-- 🌱 I’m currently learning html, css, js
+- 🌱 I’m currently learning Frontend Development
 - 💞️ I’m currently working as System Engineer
 
 
