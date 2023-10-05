@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bjo-droid
+- 👋 Hi, I’m Bjarte O.
 - 👀 I’m interested in Computer Technology and Web development
 - 🌱 I’m currently styding Frontend Development on part time. 
 - 💞️ I’m currently working as ServiceNow Consultant.
